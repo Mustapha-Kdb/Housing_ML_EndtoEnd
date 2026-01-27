@@ -60,5 +60,5 @@ jobs:
         run: |
           aws ecs update-service \
             --cluster housing-api-cluster-ecs \
-            --service housing-streamlit-service \
+            --service housing-streamlit-task-service-u6n93nu9 \
             --force-new-deployment
