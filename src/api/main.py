@@ -1,4 +1,4 @@
-# Goal: Create a FastAPI app to serve your trained ML model into a web service that anyone 
+# Goal: Create a FastAPI app to serve trained ML model into a web service that anyone 
 # (or any system) can call over HTTP.
 
 from fastapi import FastAPI            # Web framework for APIs
