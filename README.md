@@ -178,9 +178,3 @@ mlflow ui                            # View experiments
 pytest -v                            # Run tests
 docker build -t housing-api .        # Build image
 ```
-
----
-
-## 📄 License
-
-MIT
